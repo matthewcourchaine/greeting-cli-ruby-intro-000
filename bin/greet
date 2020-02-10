@@ -5,3 +5,4 @@ puts "Hi! Welcome to the wonderful world of ruby programming!"
 puts "Please enter your name so we can greet you more personally:"
 
 name = gets.strip
+greeting (name)

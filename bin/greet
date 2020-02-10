@@ -1,4 +1,4 @@
 #!/usr/bin/env ruby
 require_relative "../lib/greeting.rb"
 
-puts "Hi! Welcome to the wonderful world
+puts "Hi! Welcome to the wonderful world of ruby programming!"
